@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\dao\repositories\StudentRepo.class
+com\example\demo\dao\entities\Student.class
+com\example\demo\dao\entities\StudentConfig.class
+com\example\demo\dao\entities\Demo.class
